@@ -17,10 +17,7 @@ These assets are intended to be consumed automatically by the **OptiScaler Insta
 
 ### 📊 Download Statistics
 
-# Latest Release
 ![Latest Downloads](https://img.shields.io/github/downloads/onehoon/opti-archive/latest/total?style=for-the-badge&color=orange)
-
-# All Releases
 ![Total Downloads](https://img.shields.io/github/downloads/onehoon/opti-archive/total?style=for-the-badge&color=blue)
 ---
 *Maintained by [onehoon](https://github.com/onehoon)*
