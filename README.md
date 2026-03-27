@@ -15,5 +15,12 @@ This repository distributes binaries of **OptiScaler**, which is licensed under 
 ## 🛠 Usage
 These assets are intended to be consumed automatically by the **OptiScaler Installer**. If you are looking for the installation tool itself, please visit the [OptiScaler Main Repository](https://github.com/optiscaler/OptiScaler).
 
+### 📊 Download Statistics
+
+# Latest Release
+![Latest Downloads](https://img.shields.io/github/downloads/onehoon/opti-archive/latest/total?style=for-the-badge&color=orange)
+
+# All Releases
+![Total Downloads](https://img.shields.io/github/downloads/onehoon/opti-archive/total?style=for-the-badge&color=blue)
 ---
 *Maintained by [onehoon](https://github.com/onehoon)*
