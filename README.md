@@ -13,7 +13,7 @@ This repository distributes binaries of **OptiScaler**, which is licensed under 
 - **Source Code**: In compliance with the GPL-3.0, the source code for the binaries provided here can be found at the original project link above.
 
 ## 🛠 Usage
-These assets are intended to be consumed automatically by the **OptiScaler Installer**. If you are looking for the installation tool itself, please visit the [Main Repository](https://github.com/onehoon/OptiScalerInstaller).
+These assets are intended to be consumed automatically by the **OptiScaler Installer**. If you are looking for the installation tool itself, please visit the [OptiScaler Main Repository](https://github.com/optiscaler/OptiScaler).
 
 ---
 *Maintained by [onehoon](https://github.com/onehoon)*
